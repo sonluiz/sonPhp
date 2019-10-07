@@ -1,0 +1,18 @@
+.content4{
+    margin: 20px auto;
+    width: 600px;
+    border: 1px solid ;
+    padding: 10px;
+}
+.content4 h1{
+    text-align: center;
+    color: red;
+}
+.content4 div.question{
+    margin-top: 20px;
+    text-align: center;
+}
+.content4 div.question p{
+    margin-top: 5px;
+}
+
